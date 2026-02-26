@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "TestRepo",
+			"path": "../../TestRepoBatch31/TestRepo"
+		}
+	],
+	"settings": {}
+}
